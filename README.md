@@ -70,6 +70,22 @@ Created by an independent young developer passionate about Linux, operating syst
 
 HybriOS is an independent community project. It is not affiliated with or endorsed by Microsoft, Canonical or the Xubuntu project.
 
+---
+
+## 📚 Documentation
+
+Explore the HybriOS project documentation:
+
+- [Features](FEATURES.md) – Explore HybriOS features.
+- [Changelog](CHANGELOG.md) – Follow development updates.
+
+## 🌐 Project
+
+- Operating system: HybriOS
+- Repository: [GitHub](https://github.com/BharatBJN/HybriOS)
+- Development status: Experimental
+
+
 Third-party components remain subject to their respective licenses.
 
 ---
